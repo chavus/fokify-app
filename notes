@@ -1,0 +1,12 @@
+- npm to package administration 
+- webpack, is a module bundler, to link js files and imports and exports. need to have a budle.js file... use npm scripts from package.json, example npm run dev.
+- webpack-Dev-server to modify code and reload web
+- src content gets bundled and what is delivered to customer is dist folder. 
+- index.html from src needs to be automatically copied or injected into index.html fom dist. webpack helps do that
+- html-webpack-plugin: takes an index template from src and automatically copies it to dist with bundle.js injected
+- Babel: (Compiler) translate ES6 to ES5
+   features that cannot be converted need to be polyfill: write code that convers the function required
+
+- axios for async requests, converts returned data to json
+
+// State of app is all the information of the app at one given moment. State management libraries: redux for example 
