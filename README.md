@@ -8,4 +8,4 @@ A friendly recipe search application. Pulls recipies from: https://forkify-api.h
 
 
 ## Demo URL:
-https://personal-forkify.herokuapp.com/
+https://personal-forkify.herokuapp.com/ (Allow 30 secs for app to wake up because...Free Heroku 😝)
